@@ -1,0 +1,22 @@
+name: intro-ml
+dependencies:
+- ipython
+- matplotlib
+- numpy
+- pandas
+- python=3.7
+- scipy
+- jupyter
+- scikit-learn
+- pillow
+- spacy
+- nltk
+- cython
+- imageio
+- joblib
+- pip:
+    - watermark
+    - graphviz
+    - konlpy
+    - JPype1-py3
+

@@ -1,0 +1,10 @@
+tmp*
+*.dot
+.DS_Store
+.idea
+.env
+*.pyc
+*.swp
+.ipynb_checkpoints/
+cache
+data/aclImdb
